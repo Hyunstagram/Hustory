@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436846585900",
+    "project_id": "hustory-82cc1",
+    "storage_bucket": "hustory-82cc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436846585900:android:4da7334dd797237b378989",
+        "android_client_info": {
+          "package_name": "com.example.hustory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436846585900-mhh27mqeq21mc3n1o59r372hsjg4bd25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5JzIAWRTg1Gjna_93np7-3ap6WJFsXJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436846585900-mhh27mqeq21mc3n1o59r372hsjg4bd25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
